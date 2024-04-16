@@ -1,12 +1,12 @@
 import { Canvas } from '@react-three/fiber';
 import { Suspense, useState } from 'react';
 
-import Loader from '../components/Loader';
-import { Island } from '../models/Island';
-import { Sky } from '../models/Sky';
-import { Bird } from '../models/Bird';
-import { Plane } from '../models/Plane';
-import HomeInfo from '../components/HomeInfo';
+import { Loader } from '../components';
+import { Island } from '../models';
+import { Sky } from '../models';
+import { Bird } from '../models';
+import { Plane } from '../models';
+import { HomeInfo } from '../components';
 
 const Home = () => {
   const [currentStage, setCurrentStage] = useState(1);

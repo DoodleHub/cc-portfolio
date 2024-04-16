@@ -1,15 +1,8 @@
-import hero from './hero.jpg'
-import meta from './meta.png'
-import shopify from './shopify.png'
-import starbucks from './starbucks.png'
-import tesla from './tesla.png'
-import logo from './logo.svg'
+import hero from './hero.jpg';
+import logo from './logo.svg';
+import coinbase from './coinbase.png';
+import launch from './launch.jpg';
+import postlight from './postlight.jpg';
+import transperfect from './transperfect.png';
 
-export {
-    hero,
-    meta,
-    shopify,
-    starbucks,
-    tesla,
-    logo
-}
+export { hero, logo, coinbase, launch, postlight, transperfect };

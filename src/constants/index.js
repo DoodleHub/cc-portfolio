@@ -85,7 +85,7 @@ export const experiences = [
     company_name: 'Launch by NTT DATA',
     icon: launch,
     iconBg: '#fff',
-    date: 'Jan 2023 - Feb 2024',
+    date: 'Jun 2023 - Feb 2024',
     points: [
       'Led the design and implementation of responsive and intuitive user interfaces for insurance applications, ensuring optimal user experience across various devices.',
       'Demonstrated mastery in frontend frameworks such as React, utilizing component-based architectures to streamline development and enhance code maintainability.',

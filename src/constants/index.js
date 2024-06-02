@@ -158,10 +158,18 @@ export const projects = [
   },
   {
     iconUrl: estate,
-    theme: 'btn-back-black',
+    theme: 'btn-back-blue',
     name: 'Admin Dashboard',
     description:
       'Built an admin dashboard, allowing users to track business metrics and manage internal tasks.',
     link: 'https://lumos-board.vercel.app',
+  },
+  {
+    iconUrl: pricewise,
+    theme: 'btn-back-black',
+    name: 'E-Commerce App',
+    description:
+      'Built an e-commerce app, allowing users to shop various styles of clothings.',
+    link: 'https://shop-attire.vercel.app/',
   },
 ];

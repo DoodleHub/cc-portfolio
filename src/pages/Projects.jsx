@@ -38,6 +38,7 @@ const Projects = () => {
                 {project.name}
               </h4>
               <p className="mt-2 text-slate-500">{project.description}</p>
+              <p className="mt-2">Tech stack: {project.techStack.join(', ')}</p>
               <div className="mt-5 flex items-center gap-2 font-poppins">
                 <Link
                   to={project.link}

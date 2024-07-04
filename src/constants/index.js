@@ -154,6 +154,7 @@ export const projects = [
     name: 'Video Conference App',
     description:
       'Built a complete video conference app, allowing users to create and schedule meetings.',
+    techStack: ['next.js', 'clerk', 'shadcn', 'stream-io', 'tailwind css'],
     link: 'https://join-huddle.vercel.app',
   },
   {
@@ -162,6 +163,7 @@ export const projects = [
     name: 'Admin Dashboard',
     description:
       'Built an admin dashboard, allowing users to track business metrics and manage internal tasks.',
+    techStack: ['react', 'ant-design', 'refinedev', 'graphql'],
     link: 'https://lumos-board.vercel.app',
   },
   {
@@ -170,6 +172,16 @@ export const projects = [
     name: 'E-Commerce App',
     description:
       'Built an e-commerce app, allowing users to shop various styles of clothings.',
+    techStack: ['react', 'redux', 'styled-components', 'firebase', 'stripe'],
     link: 'https://shop-attire.vercel.app/',
+  },
+  {
+    iconUrl: summiz,
+    theme: 'btn-back-orange',
+    name: 'Fitness App',
+    description:
+      'Built a fitness app, allowing users to explore different types of exercises.',
+    techStack: ['react', 'material ui'],
+    link: 'https://fit-vibes.vercel.app/',
   },
 ];

@@ -156,6 +156,7 @@ export const projects = [
       'Built a complete video conference app, allowing users to create and schedule meetings.',
     techStack: ['next.js', 'clerk', 'shadcn', 'stream-io', 'tailwind css'],
     link: 'https://join-huddle.vercel.app',
+    githubLink: 'https://github.com/DoodleHub/huddle',
   },
   {
     iconUrl: estate,
@@ -165,6 +166,7 @@ export const projects = [
       'Built an admin dashboard, allowing users to track business metrics and manage internal tasks.',
     techStack: ['react', 'ant-design', 'refinedev', 'graphql'],
     link: 'https://lumos-board.vercel.app',
+    githubLink: 'https://github.com/DoodleHub/lumos',
   },
   {
     iconUrl: pricewise,
@@ -174,6 +176,7 @@ export const projects = [
       'Built a tech e-commerce app, allowing users to shop various tech accessories.',
     techStack: ['next.js', 'sanity.io', 'stripe'],
     link: 'https://techie-mart.vercel.app/',
+    githubLink: 'https://github.com/DoodleHub/techie-mart',
   },
   {
     iconUrl: summiz,
@@ -183,6 +186,7 @@ export const projects = [
       'Built a fitness app, allowing users to explore different types of exercises.',
     techStack: ['react', 'material ui'],
     link: 'https://fit-vibes.vercel.app/',
+    githubLink: 'https://github.com/DoodleHub/fit-vibes',
   },
   {
     iconUrl: pricewise,
@@ -192,5 +196,6 @@ export const projects = [
       'Built a fashion e-commerce app, allowing users to shop various styles of clothings.',
     techStack: ['react', 'redux', 'styled-components', 'firebase', 'stripe'],
     link: 'https://shop-attire.vercel.app/',
+    githubLink: 'https://github.com/DoodleHub/attire',
   },
 ];

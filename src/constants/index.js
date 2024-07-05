@@ -169,11 +169,11 @@ export const projects = [
   {
     iconUrl: pricewise,
     theme: 'btn-back-black',
-    name: 'E-Commerce App',
+    name: 'Tech E-Commerce App',
     description:
-      'Built an e-commerce app, allowing users to shop various styles of clothings.',
-    techStack: ['react', 'redux', 'styled-components', 'firebase', 'stripe'],
-    link: 'https://shop-attire.vercel.app/',
+      'Built a tech e-commerce app, allowing users to shop various tech accessories.',
+    techStack: ['next.js', 'sanity.io', 'stripe'],
+    link: 'https://techie-mart.vercel.app/',
   },
   {
     iconUrl: summiz,
@@ -183,5 +183,14 @@ export const projects = [
       'Built a fitness app, allowing users to explore different types of exercises.',
     techStack: ['react', 'material ui'],
     link: 'https://fit-vibes.vercel.app/',
+  },
+  {
+    iconUrl: pricewise,
+    theme: 'btn-back-black',
+    name: 'Fashion E-Commerce App',
+    description:
+      'Built a fashion e-commerce app, allowing users to shop various styles of clothings.',
+    techStack: ['react', 'redux', 'styled-components', 'firebase', 'stripe'],
+    link: 'https://shop-attire.vercel.app/',
   },
 ];

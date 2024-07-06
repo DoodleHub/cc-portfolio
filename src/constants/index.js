@@ -154,7 +154,14 @@ export const projects = [
     name: 'Video Conference App',
     description:
       'Built a complete video conference app, allowing users to create and schedule meetings.',
-    techStack: ['next.js', 'clerk', 'shadcn', 'stream-io', 'tailwind css'],
+    techStack: [
+      'next.js',
+      'clerk',
+      'shadcn',
+      'stream-io',
+      'tailwind css',
+      'typescript',
+    ],
     link: 'https://join-huddle.vercel.app',
     githubLink: 'https://github.com/DoodleHub/huddle',
   },
@@ -164,7 +171,7 @@ export const projects = [
     name: 'Admin Dashboard',
     description:
       'Built an admin dashboard, allowing users to track business metrics and manage internal tasks.',
-    techStack: ['react', 'ant-design', 'refinedev', 'graphql'],
+    techStack: ['react', 'ant-design', 'refinedev', 'graphql', 'typescript'],
     link: 'https://lumos-board.vercel.app',
     githubLink: 'https://github.com/DoodleHub/lumos',
   },
@@ -174,7 +181,7 @@ export const projects = [
     name: 'Tech E-Commerce App',
     description:
       'Built a tech e-commerce app, allowing users to shop various tech accessories.',
-    techStack: ['next.js', 'sanity.io', 'stripe'],
+    techStack: ['next.js', 'sanity.io', 'stripe', 'typescript'],
     link: 'https://techie-mart.vercel.app/',
     githubLink: 'https://github.com/DoodleHub/techie-mart',
   },
@@ -184,7 +191,7 @@ export const projects = [
     name: 'Fitness App',
     description:
       'Built a fitness app, allowing users to explore different types of exercises.',
-    techStack: ['react', 'material ui'],
+    techStack: ['react', 'material ui', 'typescript'],
     link: 'https://fit-vibes.vercel.app/',
     githubLink: 'https://github.com/DoodleHub/fit-vibes',
   },
@@ -194,7 +201,14 @@ export const projects = [
     name: 'Fashion E-Commerce App',
     description:
       'Built a fashion e-commerce app, allowing users to shop various styles of clothings.',
-    techStack: ['react', 'redux', 'styled-components', 'firebase', 'stripe'],
+    techStack: [
+      'react',
+      'redux',
+      'styled-components',
+      'firebase',
+      'stripe',
+      'typescript',
+    ],
     link: 'https://shop-attire.vercel.app/',
     githubLink: 'https://github.com/DoodleHub/attire',
   },

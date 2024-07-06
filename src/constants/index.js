@@ -196,6 +196,16 @@ export const projects = [
     githubLink: 'https://github.com/DoodleHub/fit-vibes',
   },
   {
+    iconUrl: threads,
+    theme: 'btn-back-green',
+    name: 'Healthcare Management App',
+    description:
+      'Built a healthcare management app, allowing users to request appointments with various doctors and admins to oversee all appointments to decide whether to schedule or cancel.',
+    techStack: ['next.js', 'appwrite', 'shadcn', 'tailwind css', 'typescript'],
+    link: 'https://care-pulse-health.vercel.app/',
+    githubLink: 'https://github.com/DoodleHub/care-pulse',
+  },
+  {
     iconUrl: pricewise,
     theme: 'btn-back-black',
     name: 'Fashion E-Commerce App',

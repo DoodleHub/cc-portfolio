@@ -205,21 +205,4 @@ export const projects = [
     link: 'https://care-pulse-health.vercel.app/',
     githubLink: 'https://github.com/DoodleHub/care-pulse',
   },
-  {
-    iconUrl: pricewise,
-    theme: 'btn-back-black',
-    name: 'Fashion E-Commerce App',
-    description:
-      'Built a fashion e-commerce app, allowing users to shop various styles of clothings.',
-    techStack: [
-      'react',
-      'redux',
-      'styled-components',
-      'firebase',
-      'stripe',
-      'typescript',
-    ],
-    link: 'https://shop-attire.vercel.app/',
-    githubLink: 'https://github.com/DoodleHub/attire',
-  },
 ];

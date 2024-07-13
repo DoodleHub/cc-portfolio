@@ -205,4 +205,14 @@ export const projects = [
     link: 'https://care-pulse-health.vercel.app/',
     githubLink: 'https://github.com/DoodleHub/care-pulse',
   },
+  {
+    iconUrl: snapgram,
+    theme: 'btn-back-blue',
+    name: 'Social Media App',
+    description:
+      'Built a social media app, allowing users to create, like, save posts and stay connected with others.',
+    techStack: ['react', 'appwrite', 'shadcn', 'tailwind css', 'typescript'],
+    link: 'https://explore-snapgram.vercel.app/',
+    githubLink: 'https://github.com/DoodleHub/snapgram',
+  },
 ];

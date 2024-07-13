@@ -207,7 +207,7 @@ export const projects = [
   },
   {
     iconUrl: snapgram,
-    theme: 'btn-back-blue',
+    theme: 'btn-back-pink',
     name: 'Social Media App',
     description:
       'Built a social media app, allowing users to create, like, save posts and stay connected with others.',

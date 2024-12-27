@@ -78,6 +78,8 @@ export const experiences = [
     points: [
       'Lead the development of web and mobile applications from conception to deployment.',
       'Implement localization support and develope dynamic language-switching feature across Coinbase platforms.',
+      'Work closely with product managers and content creators to align SEO strategies with business goals.',
+      'Develop server-side rendering (SSR) solutions to enhance SEO.',
     ],
   },
   {
@@ -214,5 +216,15 @@ export const projects = [
     techStack: ['react', 'appwrite', 'shadcn', 'tailwind css', 'typescript'],
     link: 'https://explore-snapgram.vercel.app/',
     githubLink: 'https://github.com/DoodleHub/snapgram',
+  },
+  {
+    iconUrl: estate,
+    theme: 'btn-back-orange',
+    name: 'Document Storage App',
+    description:
+      'Built a document storage app, allowing users to store files online and access them from any device.',
+    techStack: ['next.js', 'appwrite', 'shadcn', 'tailwind css', 'typescript'],
+    link: 'https://store-it-cloud.vercel.app/',
+    githubLink: 'https://github.com/DoodleHub/store-it',
   },
 ];

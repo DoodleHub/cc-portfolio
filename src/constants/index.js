@@ -89,9 +89,8 @@ export const experiences = [
     iconBg: '#fff',
     date: 'Jun 2023 - Feb 2024',
     points: [
-      'Led the design and implementation of responsive and intuitive user interfaces for insurance applications, ensuring optimal user experience across various devices.',
-      'Demonstrated mastery in frontend frameworks such as React, utilizing component-based architectures to streamline development and enhance code maintainability.',
-      'Spearheaded the migration of legacy frontend systems such as Backbone.js and jQuery to React, resulting in improvements in development efficiency.',
+      'Led the design and implementation of user interfaces for insurance applications.',
+      'Led the migration of legacy frontend systems such as Backbone.js and jQuery to React.',
       'Collaborated with backend teams to optimize API calls and improve overall frontend responsiveness.',
     ],
   },
@@ -102,9 +101,9 @@ export const experiences = [
     iconBg: '#fff',
     date: 'Jan 2022 - Jun 2023',
     points: [
-      'Developed and maintained responsive and user-friendly web applications using React, ensuring a seamless and intuitive user experience.',
-      'Implemented UI features, leveraging state management libraries like Redux for efficient data flow and state synchronization.',
-      'Implemented unit tests using tools like Jest and React Testing Library, resulting in reductions in production bugs.',
+      'Developed and maintained web applications using React.',
+      'Implemented UI features, leveraging state management libraries like Redux.',
+      'Implemented unit tests using tools like Jest and React Testing Library.',
     ],
   },
   {
@@ -115,7 +114,7 @@ export const experiences = [
     date: 'Jul 2017 - Jan 2022',
     points: [
       'Led the development of frontend and backend features for an in-house processing application, excelling in data conversion from platforms like Slack, Asana, Zendesk, Mobile, and Social Media into attorney-reviewed documents.',
-      'Utilized third-party API services from providers such as Slack, Asana, and Zendesk for efficient data collection, contributing to the integration of relevant information.',
+      'Utilized third-party API services from providers such as Slack, Asana, and Zendesk for data collection.',
     ],
   },
   {
@@ -125,7 +124,7 @@ export const experiences = [
     iconBg: '#fff',
     date: 'Mar 2016 - Jul 2017',
     points: [
-      'Developed and implemented ETL pipelines for data processing, encompassing extraction, transformation, and loading of diverse datasets.',
+      'Developed and implemented ETL pipelines for data processing.',
       'Utilized SQL to query databases, optimized performance, and conducted data analysis',
     ],
   },

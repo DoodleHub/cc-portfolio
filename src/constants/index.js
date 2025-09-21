@@ -70,7 +70,7 @@ export const skills = [
 
 export const experiences = [
   {
-    title: 'Software Engineer II',
+    title: 'Software Engineer',
     company_name: 'Coinbase',
     icon: coinbase,
     iconBg: '#fff',

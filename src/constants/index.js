@@ -149,23 +149,23 @@ export const socialLinks = [
 ];
 
 export const projects = [
-  {
-    iconUrl: snapgram,
-    theme: 'btn-back-pink',
-    name: 'Video Conference App',
-    description:
-      'Built a complete video conference app, allowing users to create and schedule meetings.',
-    techStack: [
-      'next.js',
-      'clerk',
-      'shadcn',
-      'stream-io',
-      'tailwind css',
-      'typescript',
-    ],
-    link: 'https://join-huddle.vercel.app',
-    githubLink: 'https://github.com/DoodleHub/huddle',
-  },
+  // {
+  //   iconUrl: snapgram,
+  //   theme: 'btn-back-pink',
+  //   name: 'Video Conference App',
+  //   description:
+  //     'Built a complete video conference app, allowing users to create and schedule meetings.',
+  //   techStack: [
+  //     'next.js',
+  //     'clerk',
+  //     'shadcn',
+  //     'stream-io',
+  //     'tailwind css',
+  //     'typescript',
+  //   ],
+  //   link: 'https://join-huddle.vercel.app',
+  //   githubLink: 'https://github.com/DoodleHub/huddle',
+  // },
   {
     iconUrl: estate,
     theme: 'btn-back-blue',
